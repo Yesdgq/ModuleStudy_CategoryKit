@@ -1,0 +1,6 @@
+framework module ModuleStudy_CategoryKit {
+  umbrella header "ModuleStudy_CategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

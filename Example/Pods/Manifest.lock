@@ -1,0 +1,16 @@
+PODS:
+  - ModuleStudy_CategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - ModuleStudy_CategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  ModuleStudy_CategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ModuleStudy_CategoryKit: 0858a18068b0cef60d45ad9db0601ca49354a255
+
+PODFILE CHECKSUM: 649e39f56a60c6dd6a8f160c8ac5dc0bb795afc6
+
+COCOAPODS: 1.9.1
